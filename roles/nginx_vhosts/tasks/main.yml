@@ -14,4 +14,3 @@
     mode: '0644'
   loop: "{{ sites }}"
   notify: restart nginx
-
